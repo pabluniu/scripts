@@ -1,6 +1,6 @@
 #!/bin/bash
 ######
-# Script to do setup local git repo and remote with github 
+# Script to setup local git repository and add origin to github 
 #####
 
 #Path to git binary
